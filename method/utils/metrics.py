@@ -1,3 +1,5 @@
+''' metrics from different aspect to measure the performance of the model'''
+
 import numpy as np
 
 def MSE(pred, true):

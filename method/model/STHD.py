@@ -1,3 +1,5 @@
+'''part of the code for STHD'''
+
 import torch
 from torch import nn
 from layers.Transformer_EncDec import Encoder, EncoderLayer
