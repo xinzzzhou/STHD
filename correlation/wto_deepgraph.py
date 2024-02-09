@@ -1,3 +1,6 @@
+'''
+This is forked from ALGNN, and modified for ablition study
+'''
 from collections import defaultdict
 import numpy as np
 import networkx as nx
