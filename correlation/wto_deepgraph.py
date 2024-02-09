@@ -1,8 +1,3 @@
-'''
-Author: Xin Zhou
-Date: 2023-11-20
-Description: This code is used to reconstruct the correlation matrix from the traffic dataset, referring to ALGNN'''
-
 from collections import defaultdict
 import numpy as np
 import networkx as nx
